@@ -8,7 +8,7 @@ Database: Training materials
 ## Электронная бибилиотечная система ЛАНЬ
 https://e.lanbook.com/
 
-## CS50’s Introduction to Databases with SQL
+## Harvard: CS50’s Introduction to Databases with SQL
 https://cs50.harvard.edu/sql/
 
 ## HarvardX: CS50's Introduction to Databases with SQL
@@ -16,3 +16,6 @@ https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-database
 
 ## Открытое образование: Базы данных
 https://openedu.ru/course/spbu/DTBS/
+
+## Нетология: Введение в SQL 
+https://netology.ru/programs/vvedenie-v-sql-i-rabotu-s-bazoi-dannih
