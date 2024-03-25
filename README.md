@@ -40,3 +40,6 @@ https://mermaid.live/
 
 ## Пример: CS50SQL Final Project
 https://youtu.be/T6JXscp442A
+
+## SQLite
+https://www.sqlite.org/
