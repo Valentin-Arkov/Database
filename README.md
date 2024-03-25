@@ -31,3 +31,12 @@ https://openedu.ru/course/spbu/DTBS/
 
 ## Нетология: Введение в SQL 
 https://netology.ru/programs/vvedenie-v-sql-i-rabotu-s-bazoi-dannih
+
+## PlantUML
+https://plantuml.com/
+
+## Mermaid
+https://mermaid.live/
+
+## Пример: CS50SQL Final Project
+https://youtu.be/T6JXscp442A
