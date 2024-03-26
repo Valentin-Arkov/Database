@@ -18,6 +18,8 @@ Database: Training materials
 # Лекции
 ## Введение
 https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf
+## Пример презентации КП: CS50 SQL Final Project
+https://youtu.be/T6JXscp442A
 
 # Ссылки
 ## Электронная бибилиотечная система ЛАНЬ
@@ -43,9 +45,6 @@ https://plantuml.com/
 
 ## Mermaid
 https://mermaid.live/
-
-## Пример: CS50SQL Final Project
-https://youtu.be/T6JXscp442A
 
 ## SQLite
 https://www.sqlite.org/
