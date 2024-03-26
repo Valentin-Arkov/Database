@@ -12,9 +12,12 @@ Database: Training materials
 
 СРС: 47 ч
 
-КП
+Курсовой проект (CS50 SQL Final Prject)
 
-Зачет
+Зачет (CS50 SQL Problem Sets)
+# Лекции
+## Введение
+
 
 # Ссылки
 ## Электронная бибилиотечная система ЛАНЬ
