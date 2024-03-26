@@ -17,7 +17,7 @@ Database: Training materials
 Зачет (CS50 SQL Problem Sets)
 # Лекции
 ## Введение
-
+https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf
 
 # Ссылки
 ## Электронная бибилиотечная система ЛАНЬ
