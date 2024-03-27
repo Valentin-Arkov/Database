@@ -40,6 +40,9 @@ https://netology.ru/programs/vvedenie-v-sql-i-rabotu-s-bazoi-dannih
 ## Skillbox: SQL и Excel
 https://bootcamp.skillbox.ru/sql/
 
+## Яндекс.Практикум: Основы работы с базами данных и SQL
+https://practicum.yandex.ru/profile/sql-database-basics/
+
 ## PlantUML
 https://plantuml.com/
 
