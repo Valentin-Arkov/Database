@@ -72,8 +72,7 @@ Database: Training materials
 
 [Skillbox: SQL и Excel](https://bootcamp.skillbox.ru/sql/)
 
-## Яндекс.Практикум: Основы работы с базами данных и SQL
-https://practicum.yandex.ru/profile/sql-database-basics/
+[Яндекс.Практикум: Основы работы с базами данных и SQL](https://practicum.yandex.ru/profile/sql-database-basics/)
 
 # Программное обеспечение
 [PlantUML](https://plantuml.com/)
