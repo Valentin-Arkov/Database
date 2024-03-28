@@ -16,17 +16,17 @@ Database: Training materials
 
 Зачет (CS50 SQL Problem Sets)
 # Теория и практика
-## Введение
-https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf
+## Презентации
+[Введение](https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf)
 
 ## Материалы курса
-https://cs50.harvard.edu/sql/
+[Harvard CS50 SQL](https://cs50.harvard.edu/sql/)
 
 Изучить все лекции и выполнить все практические задания
 
 # Курсовой проект
 ## Тема и содержание курсового проекта
-https://cs50.harvard.edu/sql/2024/project/
+[CS50 SQL Final Prject](https://cs50.harvard.edu/sql/2024/project/)
 
 ## Требования по КП
 Модель данных: не менее 4 таблиц. При выполнении вдвоем не менее 5 таблиц.
@@ -39,11 +39,15 @@ https://cs50.harvard.edu/sql/2024/project/
 
 Диаграммы выполняем в [PlantUML](https://plantuml.com/) либо [Mermaid](https://mermaid.live/) и экспортируем/вставляем как рисунки.
 
-## Анкета: Тема курсового проекта
-https://clck.ru/39gVDm
+Скрипты (кодовое описание диаграмм) вставляем в пояснительную записку.
 
-## Пример презентации КП: CS50 SQL Final Project
-https://youtu.be/T6JXscp442A
+Пояснительная записка по курсовому проекту оформляется по стандартам предприятия: титульный лист, задание, основная часть, список литературы.
+
+## Опрос
+[Тема курсового проекта](https://clck.ru/39gVDm)
+
+## Пример видеопрезентации КП
+[CS50 SQL Final Project](https://youtu.be/T6JXscp442A)
 
 ## Защита КП
 Летняя сессия 2024
