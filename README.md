@@ -60,33 +60,24 @@ Database: Training materials
 Быть готовым продемонстрировать решение любого из указанных заданий.
 
 # Ссылки
-## Электронная бибилиотечная система ЛАНЬ
-https://e.lanbook.com/
+[Электронная бибилиотечная система ЛАНЬ](https://e.lanbook.com/)
 
-## Harvard: CS50’s Introduction to Databases with SQL
-https://cs50.harvard.edu/sql/
+[Harvard: CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
 
-## HarvardX: CS50's Introduction to Databases with SQL
-https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql
+[HarvardX: CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
 
-## Открытое образование: Базы данных
-https://openedu.ru/course/spbu/DTBS/
+[Открытое образование: Базы данных](https://openedu.ru/course/spbu/DTBS/)
 
-## Нетология: Введение в SQL 
-https://netology.ru/programs/vvedenie-v-sql-i-rabotu-s-bazoi-dannih
+[Нетология: Введение в SQL ](https://netology.ru/programs/vvedenie-v-sql-i-rabotu-s-bazoi-dannih)
 
-## Skillbox: SQL и Excel
-https://bootcamp.skillbox.ru/sql/
+[Skillbox: SQL и Excel](https://bootcamp.skillbox.ru/sql/)
 
 ## Яндекс.Практикум: Основы работы с базами данных и SQL
 https://practicum.yandex.ru/profile/sql-database-basics/
 
 # Программное обеспечение
-## PlantUML
-https://plantuml.com/
+[PlantUML](https://plantuml.com/)
 
-## Mermaid
-https://mermaid.live/
+[Mermaid](https://mermaid.live/)
 
-## SQLite
-https://www.sqlite.org/
+[SQLite](https://www.sqlite.org/)
