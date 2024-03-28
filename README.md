@@ -15,11 +15,11 @@ Database: Training materials
 Курсовой проект (CS50 SQL Final Prject)
 
 Зачет (CS50 SQL Problem Sets)
-# Лекции
+# Теория и практика
 ## Введение
 https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf
 
-## Содержание курса
+## Материалы курса
 https://cs50.harvard.edu/sql/
 
 Изучить все лекции и выполнить все практические задания
