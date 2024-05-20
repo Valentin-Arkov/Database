@@ -17,7 +17,8 @@ Database: Training materials
 Зачет (CS50 SQL Problem Sets)
 # Теория и практика
 ## Учебное пособие
-[Введение в базы данных](https://github.com/Valentin-Arkov/Database/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
+[Арьков В.Ю. Введение в базы данных, 2024](https://ridero.ru/books/vvedenie_v_bazy_dannykh_2/)
+
 ## Презентации
 [Введение](https://github.com/Valentin-Arkov/Database/blob/main/DB-01-Intro.pdf)
 
