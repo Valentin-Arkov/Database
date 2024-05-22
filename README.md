@@ -51,6 +51,11 @@ Database: Training materials
 
 [ПИ-101бзу](https://clck.ru/39p73S)
 
+## Пояснительная записка по КП
+[ПИ-233бз](https://forms.yandex.ru/u/664dbd133e9d0819dc254564/)
+
+[ПИ-101бзу](https://forms.yandex.ru/u/664dbdffc417f319fcc92672/)
+
 ## Пример видеопрезентации КП
 [CS50 SQL Final Project](https://youtu.be/T6JXscp442A)
 
